@@ -26,9 +26,13 @@ Menjalankan multi-container application (Backend Node.js & Database MySQL) mengg
 
 **Dokumentasi/Screenshot:**
 
-![Proses Build Sukses](img/langkah1.png)
+![Docker Compose](img/docker_compose.png)
 
-![Proses Build Sukses](img/dockerdesktop.png)
+![Volume](img/volume.png)
+
+![Network](img/network.png)
+
+![Container](img/container.png)
 
 
 
