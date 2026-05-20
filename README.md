@@ -43,15 +43,15 @@ Pengujian fitur CRUD REST API dengan mengirim HTTP request GET dan POST ke servi
 
 **Dokumentasi/Screenshot:**
 
-![Pengujian Endpoint](img/langkah2.png)
-
 ![Pengujian Endpoint](img/users.png)
 
-![Pengujian Endpoint](img/PUT.png)
+![Pengujian Endpoint](img/get.png)
 
-![Pengujian Endpoint](img/DELETE.png)
+![Pengujian Endpoint](img/put.png)
 
-![Pengujian Endpoint](img/POST.png)
+![Pengujian Endpoint](img/delete.png)
+
+![Pengujian Endpoint](img/post.png)
 
 
 
@@ -63,7 +63,7 @@ Melakukan proses _tagging_ pada Docker image aplikasi lokal agar sesuai dengan f
 
 **Dokumentasi/Screenshot:**
 
-![Proses Push Berhasil](img/langkah3.png)
+![Proses Push Berhasil](img/dockerhub.png)
 
 
 
